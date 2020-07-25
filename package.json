@@ -1,0 +1,15 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "  \"test\": \"echo 'Hello World!'\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"scripts\": {"
+  },
+  "repository": {
+    "type": "git",
+    "url": "^^^^C"
+  },
+  "author": "",
+  "license": "ISC"
+}
